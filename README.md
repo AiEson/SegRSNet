@@ -1,6 +1,12 @@
 # SegRSNet
 SegRSNet: A powerful and efficient attention network for remote sensing image extraction
 
+<img width="753" alt="image" src="https://github.com/AiEson/SegRSNet/assets/32814260/42268328-3ba3-4261-bb3f-7cbb1c37c85f">
+<img width="1026" alt="image" src="https://github.com/AiEson/SegRSNet/assets/32814260/27282feb-c209-4a9f-8f82-f38e9c4e46b2">
+<img width="1024" alt="image" src="https://github.com/AiEson/SegRSNet/assets/32814260/80e77144-687f-40f6-915f-17d6dfc450dd">
+
+
+
 # Main Results
 
 ## [WHU Aerial Dataset](http://gpcv.whu.edu.cn/data/)
@@ -28,4 +34,5 @@ SegRSNet: A powerful and efficient attention network for remote sensing image ex
 | SegRSNet-14 | **34.0** | 0.6912     | 0.8161     | [Google Drive](https://drive.google.com/file/d/1S8ZwGuVxQJybtF005ftnu1HLsDYzFJDw) |
 | SegRSNet-26 | 40.5     | 0.6965     | 0.8198     | [Google Drive](https://drive.google.com/file/d/1YpLckvr5fcTZp0EDGqfGG1rWn-vXJQX1) |
 | SegRSNet-50 | 50.9     | **0.7194** | **0.8351** | [Google Drive](https://drive.google.com/file/d/13-6kn6iFUXAi0FqDXwv9pJDnhwv_mg3c) |
+
 
