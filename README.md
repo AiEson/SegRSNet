@@ -1,6 +1,8 @@
 # SegRSNet
 SegRSNet: A powerful and efficient attention network for remote sensing image extraction
 
+**For privacy reasons, the source code of this work will be open source after the paper is accepted. All model weights in this work are listed below, and a [Jupyter Notebook](https://github.com/AiEson/SegRSNet/blob/main/notebooks/pred.ipynb) is provided to obtain prediction results with one click.**
+
 <img width="753" alt="image" src="https://github.com/AiEson/SegRSNet/assets/32814260/42268328-3ba3-4261-bb3f-7cbb1c37c85f">
 <img width="1026" alt="image" src="https://github.com/AiEson/SegRSNet/assets/32814260/27282feb-c209-4a9f-8f82-f38e9c4e46b2">
 <img width="1024" alt="image" src="https://github.com/AiEson/SegRSNet/assets/32814260/80e77144-687f-40f6-915f-17d6dfc450dd">
